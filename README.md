@@ -1,4 +1,4 @@
-# 📌 FROLL — Official Links & Quick Start
+# 📌 FortuneRolls (ROLL) — Official Links & Quick Start
 
 🌐 **Homepage**  
 👉 https://lottery.vin  
