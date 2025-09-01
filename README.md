@@ -13,7 +13,7 @@
 
 ---
 ## 📂 Trade FROLL
-- FROLL/VIC→ https://ipfs.io/ipfs/bafybeigelx3xvwx46rkjzyiu3lvl6ynobdq3zkgga7estff722klzvt4te
+- FROLL/VIC→ 🔁 VicDec
 - FROLL/USDT → https://dex-trade.com
 
 ---
@@ -21,15 +21,15 @@
 - ⚖️ Dice → https://fortunerolls.github.io/dice  
 - 🎟 Lotto → https://fortunerolls.github.io/lotto  
 - 👥 Social → https://fortunerolls.github.io/social
-- 🔁 VicDec → https://fortunerolls.github.io/vicdex   
+- 🔁 VicDec (FROLL/VIC)→ https://fortunerolls.github.io/vicdex   
 
 ---
 
 ## 🗄️ IPFS Mirrors
-- ⚖️ Dice → https://ipfs.io/ipfs/bafybeid44womns73h53ke5q2jnuh3bs7twjg34gd2447e63x3jelkq6xlq  
-- 🎟 Lotto → https://ipfs.io/ipfs/bafybeif23t76dwgauhzwbtkiigf7dsd2s2r462eybrw4it4lhvl2kgthcq   
-- 💬 Social → https://ipfs.io/ipfs/bafybeihwodqm7ljplamxz6yzpuz6gjlk25gd3njdzya7ywcpgaefb7r5ve  
-
+- ⚖️ Dice → https://ipfs.io/ipfs/bafybeihyf32ugo5ziwd62a6rmqn6iruthhy2kki3az42wyfthebyi7kfqe  
+- 🎟 Lotto → https://ipfs.io/ipfs/bafybeic54cju4i2ungveuqjbqljp333ao674kifj6dzbcqmpla33gbnq5i   
+- 💬 Social → https://ipfs.io/ipfs/bafybeidim4tnmi6afnxlg5nraw2cymhslviywealpvu5dogxs44wktllym  
+- 🔁 VicDec (FROLL/VIC)→ https://ipfs.io/ipfs/bafybeigelx3xvwx46rkjzyiu3lvl6ynobdq3zkgga7estff722klzvt4te
 ---
 
 ## 🪙 Token
