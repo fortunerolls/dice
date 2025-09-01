@@ -21,7 +21,7 @@
 - ⚖️ Dice → https://fortunerolls.github.io/dice  
 - 🎟 Lotto → https://fortunerolls.github.io/lotto  
 - 👥 Social → https://fortunerolls.github.io/social
--   
+- 🔁 VicDec → https://fortunerolls.github.io/vicdex   
 
 ---
 
