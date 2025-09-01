@@ -32,12 +32,12 @@
 
 ---
 
-## 🪙 Token & Supply
+## 🪙 Token
+- **Name**: FortuneRolls
+- **Symbol**: FROLL
+- **Blockchain**: Viction (VIC)
+- **Contract**: 0xB4d562A8f811CE7F134a1982992Bd153902290BC
 - **Max Supply**: 1,000,000 FROLL  
-- **Initial Float**: 100,000 (swap pool)  
-- **Locked for**: 🎲 Game rewards (jackpot, betall, betone, Dice, Lotto)  
-- **Unlocks gradually** as users buy, play  
-
 ✅ [Verify on VicScan](https://vicscan.xyz/token/0xB4d562A8f811CE7F134a1982992Bd153902290BC)  
 
 ---
@@ -63,5 +63,5 @@
 
 ---
 
-✨ **VIN – Transparent • Fair • Fully On-Chain**  
+✨ **FROLL – Transparent • Fair • Fully On-Chain**  
 _No custody. No operator. 100% Smart Contracts on Viction._
